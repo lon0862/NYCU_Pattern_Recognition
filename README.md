@@ -6,3 +6,9 @@ Implement gradient descent of Linear model with numpy
 ```
 run HW1.ipynb
 ```
+
+## HW2
+Implement Logistic Regression Model and Fisher’s Linear Discriminant (FLD) Model with numpy
+```
+run HW2.ipynb
+```
