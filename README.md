@@ -12,3 +12,9 @@ Implement Logistic Regression Model and Fisher’s Linear Discriminant (FLD) Mod
 ```
 run HW2.ipynb
 ```
+
+## HW3
+Implement Decision Tree and Random Forest using only NumPy
+```
+run HW3.ipynb
+```
