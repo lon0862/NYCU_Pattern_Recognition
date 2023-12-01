@@ -18,3 +18,10 @@ Implement Decision Tree and Random Forest using only NumPy
 ```
 run HW3.ipynb
 ```
+
+## HW4
+Implement Cross-Validation and Grid Search for SVM training using only NumPy
+```
+run HW4.ipynb
+```
+
