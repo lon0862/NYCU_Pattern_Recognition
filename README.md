@@ -1,5 +1,5 @@
 # Pattern_Recognition
-Pattern_Recognition in NYCU, 2023.02~now
+Pattern_Recognition in NYCU, 2023.02~2023.06
 
 ## HW1 
 Implement gradient descent of Linear model with numpy
