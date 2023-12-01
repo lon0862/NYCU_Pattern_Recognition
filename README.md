@@ -30,7 +30,7 @@ Train a model to predict all the digits in the image.</br>
 Task 1: Single character in the image.</br>
 Task 2: Two characters in the image (order matters).</br>
 Task 3: Four characters in the image (order matters).</br>
-<img src="https://github.com/lon0862/NYCU_Pattern_Recognition/assets/59390771/ed6c0ff2-b61e-4df3-bcc9-876377928473" width="256" height="256"/>
+<img src="https://github.com/lon0862/NYCU_Pattern_Recognition/assets/59390771/ed6c0ff2-b61e-4df3-bcc9-876377928473" width="256"/>
 
 
 
